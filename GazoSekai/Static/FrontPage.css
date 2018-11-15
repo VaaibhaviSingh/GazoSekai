@@ -1,0 +1,5 @@
+a {text-decoration: none; background-color: transparent; display: block;     padding: 0 15px; -webkit-tap-highlight-color: transparent;     box-sizing: inherit; cursor: pointer; color: #fff; transition: background-color .3s;} 
+
+a:visited { text-decoration: none; color:white; }
+a:focus { text-decoration: none; color:black; }
+a:hover, a:active a:after { text-decoration: none; color:black; background-color:#cc7000;} 
